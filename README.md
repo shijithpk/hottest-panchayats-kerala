@@ -8,6 +8,8 @@ Once that's done, you can upload the jupyter notebook to your [home directory](h
 
 The notebook is heavily commented, so a coder with enough time should be able to read it from top to bottom, and understand atleast at a high level what's going on.
 
+Essentially what I'm doing is requesting satellite data from Planetary Computer and NASA, mainly data relating to surface temperature, processing it and then visualising it. The jupyter notebook goes into more detail on what exactly is being done.
+
 ### Want to hire me?
 
 Have a look at [my website](https://shijith.com/). If you like what I've done and think I could be of value to your company, email me at [mail@shijith.com](mailto:mail@shijith.com) or message me on [LinkedIn](https://www.linkedin.com/in/shijith/). I won't make sense for a full-fledged developer role, but if you have something that combines coding and longform writing, I'm definitely a good fit for that. Get in touch! :)
