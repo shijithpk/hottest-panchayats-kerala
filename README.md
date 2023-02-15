@@ -8,7 +8,7 @@ Once that's done, you can upload the jupyter notebook to your [home directory](h
 
 The notebook is heavily commented, so a coder with enough time should be able to read it from top to bottom, and understand atleast at a high level what's going on.
 
-Essentially what I'm doing is requesting satellite data from Planetary Computer and NASA, mainly data relating to surface temperature, processing it and then visualising it.
+Essentially what I'm doing is requesting satellite data from Planetary Computer and NASA, mainly data relating to surface temperature, processing it and then analysing it.
 
 ### Want to hire me?
 
