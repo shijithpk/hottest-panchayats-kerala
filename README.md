@@ -12,7 +12,7 @@ Essentially what I'm doing is requesting satellite data from Planetary Computer 
 
 ### Acknowledgments
 
-Special thanks to the Open Data Kerala group, got my geojson of Kerala's administrative boundaries from [their repo](https://github.com/opendatakerala/lsg-kerala-data).
+Special thanks to the Open Data Kerala group, got my geojson of Kerala's administrative boundaries from [their github repo](https://github.com/opendatakerala/lsg-kerala-data).
 
 ### Want to hire me?
 
