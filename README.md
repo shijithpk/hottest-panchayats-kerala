@@ -10,6 +10,10 @@ The notebook is heavily commented, so a coder with enough time should be able to
 
 Essentially what I'm doing is requesting satellite data from Planetary Computer and NASA, mainly data relating to surface temperature, processing it and then analysing it.
 
+### Acknowledgments
+
+Special thanks to the Open Data Kerala group, got my geojson of Kerala's administrative boundaries from [their repo](https://github.com/opendatakerala/lsg-kerala-data).
+
 ### Want to hire me?
 
 Have a look at [my website](https://shijith.com/). If you like what I've done and think I could be of value to your company, email me at [mail@shijith.com](mailto:mail@shijith.com) or message me on [LinkedIn](https://www.linkedin.com/in/shijith/). I won't make sense for a full-fledged developer role, but if you have something that combines coding and longform writing, I'm definitely a good fit for that. Get in touch! :)
